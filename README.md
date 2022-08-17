@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Copyright
 
 ## Rebase Exercise
+
+More changes on my feature file
